@@ -1,0 +1,3 @@
+*.wav
+/enrollment_samples
+/pretrained_models
